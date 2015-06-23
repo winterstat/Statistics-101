@@ -1,0 +1,18 @@
+## Select all lines and run code to install needed packages
+
+install.packages("ggplot2")
+install.packages("dplyr")
+install.packages("plyr")
+install.packages("car")
+install.packages("nlme") 
+install.packages("caret")
+install.packages("rpart")
+install.packages("rattle")
+install.packages("randomForest")
+install.packages("gbm")
+install.packages("readxl")
+install.packages("zoo")
+install.packages("TTR")
+install.packages("forecast")
+install.packages("timeDate")
+install.packages("xts")
